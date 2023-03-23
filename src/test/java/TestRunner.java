@@ -3,6 +3,6 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features =".",tags = "@login")
+@CucumberOptions(features =".",tags = "@Search")
 public class TestRunner {
 }
